@@ -1,0 +1,49 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.python-version
+# Django
+*.log
+*.sqlite3
+db.sqlite3
+/media
+/venv
+/staticfiles
+.env
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.tmp
+*.orig
+
+# Test files
+coverage/
+*.cover
+nosetests.xml
+*.test
+*.tox
+
+# Python package
+*.egg-info/
+dist/
+build/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytest
+.cache/
