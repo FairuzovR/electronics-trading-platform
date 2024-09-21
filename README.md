@@ -20,7 +20,7 @@
 
 1. **Клонируйте репозиторий**:
     ```bash
-    git clone https://github.com/ваш_пользователь/electronics-trading-platform.git
+    git clone https://github.com/FairuzovR/electronics-trading-platform.git
     cd electronics-trading-platform
     ```
 
